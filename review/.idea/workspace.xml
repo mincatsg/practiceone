@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a56dd8a-9581-46d3-b198-c67d93ab0ab1" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/review$Main.ic" NAME="Main Coverage Results" MODIFIED="1583389448522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day02.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZFrFTaksWy3xS5n8U06WpRPN5Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Application.Main4">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day.Main" />
+      <module name="review" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17.Main" />
+      <module name="review" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.Main" />
+      <module name="review" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19.Main" />
+      <module name="review" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19.Main4" />
+      <module name="review" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a56dd8a-9581-46d3-b198-c67d93ab0ab1" name="Default" comment="" />
+      <created>1582342717771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582342717771</updated>
+      <workItem from="1582342725001" duration="5094000" />
+      <workItem from="1582526831647" duration="619000" />
+      <workItem from="1583233463128" duration="877000" />
+      <workItem from="1583306765777" duration="1594000" />
+      <workItem from="1583378413613" duration="13647000" />
+      <workItem from="1583492656137" duration="103000" />
+      <workItem from="1583546059861" duration="3844000" />
+      <workItem from="1583746000599" duration="3057000" />
+      <workItem from="1583762388856" duration="3295000" />
+      <workItem from="1583840550161" duration="5225000" />
+      <workItem from="1583931772413" duration="4393000" />
+      <workItem from="1584159005368" duration="654000" />
+      <workItem from="1584445593481" duration="8963000" />
+      <workItem from="1584540035694" duration="570000" />
+      <workItem from="1584597850442" duration="4712000" />
+      <workItem from="1584800046374" duration="4469000" />
+      <workItem from="1585057515899" duration="6237000" />
+      <workItem from="1585100541454" duration="232000" />
+      <workItem from="1585143126780" duration="4504000" />
+      <workItem from="1585190503490" duration="4398000" />
+      <workItem from="1585311185561" duration="7119000" />
+      <workItem from="1585360162626" duration="45000" />
+      <workItem from="1585572852121" duration="3936000" />
+      <workItem from="1585615333067" duration="1198000" />
+      <workItem from="1585661641561" duration="5851000" />
+      <workItem from="1585668667864" duration="61000" />
+      <workItem from="1585668939565" duration="1446000" />
+      <workItem from="1585705620232" duration="128000" />
+      <workItem from="1585709344997" duration="13089000" />
+      <workItem from="1585821226894" duration="9186000" />
+      <workItem from="1586510806881" duration="5398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="197" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1585146055318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="197" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1366.728@0.0.1366.728" timestamp="1585146055318" />
+    <state width="1323" height="279" key="GridCell.Tab.0.bottom" timestamp="1585836365694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585836365694" />
+    <state width="1323" height="279" key="GridCell.Tab.0.center" timestamp="1585836365694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="279" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585836365694" />
+    <state width="1323" height="279" key="GridCell.Tab.0.left" timestamp="1585836365694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="279" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585836365694" />
+    <state width="1323" height="279" key="GridCell.Tab.0.right" timestamp="1585836365694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="279" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585836365694" />
+    <state width="1323" height="248" key="GridCell.Tab.1.bottom" timestamp="1585748820899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="248" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585748820899" />
+    <state width="1323" height="248" key="GridCell.Tab.1.center" timestamp="1585748820898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="248" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585748820898" />
+    <state width="1323" height="248" key="GridCell.Tab.1.left" timestamp="1585748820898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="248" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585748820898" />
+    <state width="1323" height="248" key="GridCell.Tab.1.right" timestamp="1585748820898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="248" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585748820898" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1586510805975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586510805975" />
+    <state x="602" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585711711972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="602" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585711711972" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day02/Main.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day05/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day17/Main.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/review$Main.ic" NAME="Main Coverage Results" MODIFIED="1584447280631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day10.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/review$Main__5_.ic" NAME="Main (5) Coverage Results" MODIFIED="1585316182899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day16.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
